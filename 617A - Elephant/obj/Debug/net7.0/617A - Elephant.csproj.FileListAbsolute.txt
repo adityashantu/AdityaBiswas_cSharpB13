@@ -1,0 +1,15 @@
+E:\Codes\Codeforces\Codeforces\617A - Elephant\obj\Debug\net7.0\617A - Elephant.csproj.AssemblyReference.cache
+E:\Codes\Codeforces\Codeforces\617A - Elephant\obj\Debug\net7.0\617A - Elephant.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\Codeforces\Codeforces\617A - Elephant\obj\Debug\net7.0\617A - Elephant.AssemblyInfoInputs.cache
+E:\Codes\Codeforces\Codeforces\617A - Elephant\obj\Debug\net7.0\617A - Elephant.AssemblyInfo.cs
+E:\Codes\Codeforces\Codeforces\617A - Elephant\obj\Debug\net7.0\617A - Elephant.csproj.CoreCompileInputs.cache
+E:\Codes\Codeforces\Codeforces\617A - Elephant\bin\Debug\net7.0\617A - Elephant.exe
+E:\Codes\Codeforces\Codeforces\617A - Elephant\bin\Debug\net7.0\617A - Elephant.deps.json
+E:\Codes\Codeforces\Codeforces\617A - Elephant\bin\Debug\net7.0\617A - Elephant.runtimeconfig.json
+E:\Codes\Codeforces\Codeforces\617A - Elephant\bin\Debug\net7.0\617A - Elephant.dll
+E:\Codes\Codeforces\Codeforces\617A - Elephant\bin\Debug\net7.0\617A - Elephant.pdb
+E:\Codes\Codeforces\Codeforces\617A - Elephant\obj\Debug\net7.0\617A - Elephant.dll
+E:\Codes\Codeforces\Codeforces\617A - Elephant\obj\Debug\net7.0\refint\617A - Elephant.dll
+E:\Codes\Codeforces\Codeforces\617A - Elephant\obj\Debug\net7.0\617A - Elephant.pdb
+E:\Codes\Codeforces\Codeforces\617A - Elephant\obj\Debug\net7.0\617A - Elephant.genruntimeconfig.cache
+E:\Codes\Codeforces\Codeforces\617A - Elephant\obj\Debug\net7.0\ref\617A - Elephant.dll

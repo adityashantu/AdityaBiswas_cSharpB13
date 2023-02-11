@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "58A - Chat room/1.0.0": {
+        "runtime": {
+          "58A - Chat room.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "58A - Chat room/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

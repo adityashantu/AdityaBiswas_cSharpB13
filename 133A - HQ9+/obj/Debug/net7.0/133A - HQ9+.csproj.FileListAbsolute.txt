@@ -1,0 +1,15 @@
+E:\Codes\Codeforces\Codeforces\133A - HQ9+\bin\Debug\net7.0\133A - HQ9+.exe
+E:\Codes\Codeforces\Codeforces\133A - HQ9+\bin\Debug\net7.0\133A - HQ9+.deps.json
+E:\Codes\Codeforces\Codeforces\133A - HQ9+\bin\Debug\net7.0\133A - HQ9+.runtimeconfig.json
+E:\Codes\Codeforces\Codeforces\133A - HQ9+\bin\Debug\net7.0\133A - HQ9+.dll
+E:\Codes\Codeforces\Codeforces\133A - HQ9+\bin\Debug\net7.0\133A - HQ9+.pdb
+E:\Codes\Codeforces\Codeforces\133A - HQ9+\obj\Debug\net7.0\133A - HQ9+.csproj.AssemblyReference.cache
+E:\Codes\Codeforces\Codeforces\133A - HQ9+\obj\Debug\net7.0\133A - HQ9+.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\Codeforces\Codeforces\133A - HQ9+\obj\Debug\net7.0\133A - HQ9+.AssemblyInfoInputs.cache
+E:\Codes\Codeforces\Codeforces\133A - HQ9+\obj\Debug\net7.0\133A - HQ9+.AssemblyInfo.cs
+E:\Codes\Codeforces\Codeforces\133A - HQ9+\obj\Debug\net7.0\133A - HQ9+.csproj.CoreCompileInputs.cache
+E:\Codes\Codeforces\Codeforces\133A - HQ9+\obj\Debug\net7.0\133A - HQ9+.dll
+E:\Codes\Codeforces\Codeforces\133A - HQ9+\obj\Debug\net7.0\refint\133A - HQ9+.dll
+E:\Codes\Codeforces\Codeforces\133A - HQ9+\obj\Debug\net7.0\133A - HQ9+.pdb
+E:\Codes\Codeforces\Codeforces\133A - HQ9+\obj\Debug\net7.0\133A - HQ9+.genruntimeconfig.cache
+E:\Codes\Codeforces\Codeforces\133A - HQ9+\obj\Debug\net7.0\ref\133A - HQ9+.dll

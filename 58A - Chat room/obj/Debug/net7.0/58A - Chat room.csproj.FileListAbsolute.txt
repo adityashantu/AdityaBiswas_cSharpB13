@@ -1,0 +1,15 @@
+E:\Codes\Codeforces\Codeforces\58A - Chat room\obj\Debug\net7.0\58A - Chat room.csproj.AssemblyReference.cache
+E:\Codes\Codeforces\Codeforces\58A - Chat room\obj\Debug\net7.0\58A - Chat room.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\Codeforces\Codeforces\58A - Chat room\obj\Debug\net7.0\58A - Chat room.AssemblyInfoInputs.cache
+E:\Codes\Codeforces\Codeforces\58A - Chat room\obj\Debug\net7.0\58A - Chat room.AssemblyInfo.cs
+E:\Codes\Codeforces\Codeforces\58A - Chat room\obj\Debug\net7.0\58A - Chat room.csproj.CoreCompileInputs.cache
+E:\Codes\Codeforces\Codeforces\58A - Chat room\bin\Debug\net7.0\58A - Chat room.exe
+E:\Codes\Codeforces\Codeforces\58A - Chat room\bin\Debug\net7.0\58A - Chat room.deps.json
+E:\Codes\Codeforces\Codeforces\58A - Chat room\bin\Debug\net7.0\58A - Chat room.runtimeconfig.json
+E:\Codes\Codeforces\Codeforces\58A - Chat room\bin\Debug\net7.0\58A - Chat room.dll
+E:\Codes\Codeforces\Codeforces\58A - Chat room\bin\Debug\net7.0\58A - Chat room.pdb
+E:\Codes\Codeforces\Codeforces\58A - Chat room\obj\Debug\net7.0\58A - Chat room.dll
+E:\Codes\Codeforces\Codeforces\58A - Chat room\obj\Debug\net7.0\refint\58A - Chat room.dll
+E:\Codes\Codeforces\Codeforces\58A - Chat room\obj\Debug\net7.0\58A - Chat room.pdb
+E:\Codes\Codeforces\Codeforces\58A - Chat room\obj\Debug\net7.0\58A - Chat room.genruntimeconfig.cache
+E:\Codes\Codeforces\Codeforces\58A - Chat room\obj\Debug\net7.0\ref\58A - Chat room.dll

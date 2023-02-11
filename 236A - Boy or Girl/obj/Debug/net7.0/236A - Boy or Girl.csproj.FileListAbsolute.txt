@@ -1,0 +1,15 @@
+E:\Codes\Codeforces\Codeforces\236A - Boy or Girl\bin\Debug\net7.0\236A - Boy or Girl.exe
+E:\Codes\Codeforces\Codeforces\236A - Boy or Girl\bin\Debug\net7.0\236A - Boy or Girl.deps.json
+E:\Codes\Codeforces\Codeforces\236A - Boy or Girl\bin\Debug\net7.0\236A - Boy or Girl.runtimeconfig.json
+E:\Codes\Codeforces\Codeforces\236A - Boy or Girl\bin\Debug\net7.0\236A - Boy or Girl.dll
+E:\Codes\Codeforces\Codeforces\236A - Boy or Girl\bin\Debug\net7.0\236A - Boy or Girl.pdb
+E:\Codes\Codeforces\Codeforces\236A - Boy or Girl\obj\Debug\net7.0\236A - Boy or Girl.csproj.AssemblyReference.cache
+E:\Codes\Codeforces\Codeforces\236A - Boy or Girl\obj\Debug\net7.0\236A - Boy or Girl.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\Codeforces\Codeforces\236A - Boy or Girl\obj\Debug\net7.0\236A - Boy or Girl.AssemblyInfoInputs.cache
+E:\Codes\Codeforces\Codeforces\236A - Boy or Girl\obj\Debug\net7.0\236A - Boy or Girl.AssemblyInfo.cs
+E:\Codes\Codeforces\Codeforces\236A - Boy or Girl\obj\Debug\net7.0\236A - Boy or Girl.csproj.CoreCompileInputs.cache
+E:\Codes\Codeforces\Codeforces\236A - Boy or Girl\obj\Debug\net7.0\236A - Boy or Girl.dll
+E:\Codes\Codeforces\Codeforces\236A - Boy or Girl\obj\Debug\net7.0\refint\236A - Boy or Girl.dll
+E:\Codes\Codeforces\Codeforces\236A - Boy or Girl\obj\Debug\net7.0\236A - Boy or Girl.pdb
+E:\Codes\Codeforces\Codeforces\236A - Boy or Girl\obj\Debug\net7.0\236A - Boy or Girl.genruntimeconfig.cache
+E:\Codes\Codeforces\Codeforces\236A - Boy or Girl\obj\Debug\net7.0\ref\236A - Boy or Girl.dll

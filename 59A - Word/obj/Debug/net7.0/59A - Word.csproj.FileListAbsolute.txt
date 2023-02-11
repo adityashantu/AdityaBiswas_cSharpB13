@@ -1,0 +1,15 @@
+E:\Codes\Codeforces\Codeforces\59A - Word\bin\Debug\net7.0\59A - Word.exe
+E:\Codes\Codeforces\Codeforces\59A - Word\bin\Debug\net7.0\59A - Word.deps.json
+E:\Codes\Codeforces\Codeforces\59A - Word\bin\Debug\net7.0\59A - Word.runtimeconfig.json
+E:\Codes\Codeforces\Codeforces\59A - Word\bin\Debug\net7.0\59A - Word.dll
+E:\Codes\Codeforces\Codeforces\59A - Word\bin\Debug\net7.0\59A - Word.pdb
+E:\Codes\Codeforces\Codeforces\59A - Word\obj\Debug\net7.0\59A - Word.csproj.AssemblyReference.cache
+E:\Codes\Codeforces\Codeforces\59A - Word\obj\Debug\net7.0\59A - Word.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\Codeforces\Codeforces\59A - Word\obj\Debug\net7.0\59A - Word.AssemblyInfoInputs.cache
+E:\Codes\Codeforces\Codeforces\59A - Word\obj\Debug\net7.0\59A - Word.AssemblyInfo.cs
+E:\Codes\Codeforces\Codeforces\59A - Word\obj\Debug\net7.0\59A - Word.csproj.CoreCompileInputs.cache
+E:\Codes\Codeforces\Codeforces\59A - Word\obj\Debug\net7.0\59A - Word.dll
+E:\Codes\Codeforces\Codeforces\59A - Word\obj\Debug\net7.0\refint\59A - Word.dll
+E:\Codes\Codeforces\Codeforces\59A - Word\obj\Debug\net7.0\59A - Word.pdb
+E:\Codes\Codeforces\Codeforces\59A - Word\obj\Debug\net7.0\59A - Word.genruntimeconfig.cache
+E:\Codes\Codeforces\Codeforces\59A - Word\obj\Debug\net7.0\ref\59A - Word.dll

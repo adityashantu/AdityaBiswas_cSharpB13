@@ -1,0 +1,5 @@
+E:\Codes\Codeforces\Codeforces\266A - Stones on the Table\obj\Debug\net7.0\266A - Stones on the Table.csproj.AssemblyReference.cache
+E:\Codes\Codeforces\Codeforces\266A - Stones on the Table\obj\Debug\net7.0\266A - Stones on the Table.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\Codeforces\Codeforces\266A - Stones on the Table\obj\Debug\net7.0\266A - Stones on the Table.AssemblyInfoInputs.cache
+E:\Codes\Codeforces\Codeforces\266A - Stones on the Table\obj\Debug\net7.0\266A - Stones on the Table.AssemblyInfo.cs
+E:\Codes\Codeforces\Codeforces\266A - Stones on the Table\obj\Debug\net7.0\266A - Stones on the Table.csproj.CoreCompileInputs.cache

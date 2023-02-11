@@ -1,0 +1,15 @@
+E:\Codes\Codeforces\Codeforces\116A - Tram\bin\Debug\net7.0\116A - Tram.exe
+E:\Codes\Codeforces\Codeforces\116A - Tram\bin\Debug\net7.0\116A - Tram.deps.json
+E:\Codes\Codeforces\Codeforces\116A - Tram\bin\Debug\net7.0\116A - Tram.runtimeconfig.json
+E:\Codes\Codeforces\Codeforces\116A - Tram\bin\Debug\net7.0\116A - Tram.dll
+E:\Codes\Codeforces\Codeforces\116A - Tram\bin\Debug\net7.0\116A - Tram.pdb
+E:\Codes\Codeforces\Codeforces\116A - Tram\obj\Debug\net7.0\116A - Tram.csproj.AssemblyReference.cache
+E:\Codes\Codeforces\Codeforces\116A - Tram\obj\Debug\net7.0\116A - Tram.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\Codeforces\Codeforces\116A - Tram\obj\Debug\net7.0\116A - Tram.AssemblyInfoInputs.cache
+E:\Codes\Codeforces\Codeforces\116A - Tram\obj\Debug\net7.0\116A - Tram.AssemblyInfo.cs
+E:\Codes\Codeforces\Codeforces\116A - Tram\obj\Debug\net7.0\116A - Tram.csproj.CoreCompileInputs.cache
+E:\Codes\Codeforces\Codeforces\116A - Tram\obj\Debug\net7.0\116A - Tram.dll
+E:\Codes\Codeforces\Codeforces\116A - Tram\obj\Debug\net7.0\refint\116A - Tram.dll
+E:\Codes\Codeforces\Codeforces\116A - Tram\obj\Debug\net7.0\116A - Tram.pdb
+E:\Codes\Codeforces\Codeforces\116A - Tram\obj\Debug\net7.0\116A - Tram.genruntimeconfig.cache
+E:\Codes\Codeforces\Codeforces\116A - Tram\obj\Debug\net7.0\ref\116A - Tram.dll

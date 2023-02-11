@@ -1,0 +1,15 @@
+E:\Codes\Codeforces\Codeforces\977A - Wrong Subtraction\bin\Debug\net7.0\977A - Wrong Subtraction.exe
+E:\Codes\Codeforces\Codeforces\977A - Wrong Subtraction\bin\Debug\net7.0\977A - Wrong Subtraction.deps.json
+E:\Codes\Codeforces\Codeforces\977A - Wrong Subtraction\bin\Debug\net7.0\977A - Wrong Subtraction.runtimeconfig.json
+E:\Codes\Codeforces\Codeforces\977A - Wrong Subtraction\bin\Debug\net7.0\977A - Wrong Subtraction.dll
+E:\Codes\Codeforces\Codeforces\977A - Wrong Subtraction\bin\Debug\net7.0\977A - Wrong Subtraction.pdb
+E:\Codes\Codeforces\Codeforces\977A - Wrong Subtraction\obj\Debug\net7.0\977A - Wrong Subtraction.csproj.AssemblyReference.cache
+E:\Codes\Codeforces\Codeforces\977A - Wrong Subtraction\obj\Debug\net7.0\977A - Wrong Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\Codeforces\Codeforces\977A - Wrong Subtraction\obj\Debug\net7.0\977A - Wrong Subtraction.AssemblyInfoInputs.cache
+E:\Codes\Codeforces\Codeforces\977A - Wrong Subtraction\obj\Debug\net7.0\977A - Wrong Subtraction.AssemblyInfo.cs
+E:\Codes\Codeforces\Codeforces\977A - Wrong Subtraction\obj\Debug\net7.0\977A - Wrong Subtraction.csproj.CoreCompileInputs.cache
+E:\Codes\Codeforces\Codeforces\977A - Wrong Subtraction\obj\Debug\net7.0\977A - Wrong Subtraction.dll
+E:\Codes\Codeforces\Codeforces\977A - Wrong Subtraction\obj\Debug\net7.0\refint\977A - Wrong Subtraction.dll
+E:\Codes\Codeforces\Codeforces\977A - Wrong Subtraction\obj\Debug\net7.0\977A - Wrong Subtraction.pdb
+E:\Codes\Codeforces\Codeforces\977A - Wrong Subtraction\obj\Debug\net7.0\977A - Wrong Subtraction.genruntimeconfig.cache
+E:\Codes\Codeforces\Codeforces\977A - Wrong Subtraction\obj\Debug\net7.0\ref\977A - Wrong Subtraction.dll

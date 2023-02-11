@@ -1,0 +1,15 @@
+E:\Codes\Codeforces\Codeforces\263A - Beautiful Matrix\bin\Debug\net7.0\263A - Beautiful Matrix.exe
+E:\Codes\Codeforces\Codeforces\263A - Beautiful Matrix\bin\Debug\net7.0\263A - Beautiful Matrix.deps.json
+E:\Codes\Codeforces\Codeforces\263A - Beautiful Matrix\bin\Debug\net7.0\263A - Beautiful Matrix.runtimeconfig.json
+E:\Codes\Codeforces\Codeforces\263A - Beautiful Matrix\bin\Debug\net7.0\263A - Beautiful Matrix.dll
+E:\Codes\Codeforces\Codeforces\263A - Beautiful Matrix\bin\Debug\net7.0\263A - Beautiful Matrix.pdb
+E:\Codes\Codeforces\Codeforces\263A - Beautiful Matrix\obj\Debug\net7.0\263A - Beautiful Matrix.csproj.AssemblyReference.cache
+E:\Codes\Codeforces\Codeforces\263A - Beautiful Matrix\obj\Debug\net7.0\263A - Beautiful Matrix.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\Codeforces\Codeforces\263A - Beautiful Matrix\obj\Debug\net7.0\263A - Beautiful Matrix.AssemblyInfoInputs.cache
+E:\Codes\Codeforces\Codeforces\263A - Beautiful Matrix\obj\Debug\net7.0\263A - Beautiful Matrix.AssemblyInfo.cs
+E:\Codes\Codeforces\Codeforces\263A - Beautiful Matrix\obj\Debug\net7.0\263A - Beautiful Matrix.csproj.CoreCompileInputs.cache
+E:\Codes\Codeforces\Codeforces\263A - Beautiful Matrix\obj\Debug\net7.0\263A - Beautiful Matrix.dll
+E:\Codes\Codeforces\Codeforces\263A - Beautiful Matrix\obj\Debug\net7.0\refint\263A - Beautiful Matrix.dll
+E:\Codes\Codeforces\Codeforces\263A - Beautiful Matrix\obj\Debug\net7.0\263A - Beautiful Matrix.pdb
+E:\Codes\Codeforces\Codeforces\263A - Beautiful Matrix\obj\Debug\net7.0\263A - Beautiful Matrix.genruntimeconfig.cache
+E:\Codes\Codeforces\Codeforces\263A - Beautiful Matrix\obj\Debug\net7.0\ref\263A - Beautiful Matrix.dll

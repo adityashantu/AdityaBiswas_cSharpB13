@@ -1,0 +1,15 @@
+E:\Codes\Codeforces\Codeforces\546A - Soldier and Bananas\obj\Debug\net7.0\546A - Soldier and Bananas.csproj.AssemblyReference.cache
+E:\Codes\Codeforces\Codeforces\546A - Soldier and Bananas\obj\Debug\net7.0\546A - Soldier and Bananas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\Codeforces\Codeforces\546A - Soldier and Bananas\obj\Debug\net7.0\546A - Soldier and Bananas.AssemblyInfoInputs.cache
+E:\Codes\Codeforces\Codeforces\546A - Soldier and Bananas\obj\Debug\net7.0\546A - Soldier and Bananas.AssemblyInfo.cs
+E:\Codes\Codeforces\Codeforces\546A - Soldier and Bananas\obj\Debug\net7.0\546A - Soldier and Bananas.csproj.CoreCompileInputs.cache
+E:\Codes\Codeforces\Codeforces\546A - Soldier and Bananas\bin\Debug\net7.0\546A - Soldier and Bananas.exe
+E:\Codes\Codeforces\Codeforces\546A - Soldier and Bananas\bin\Debug\net7.0\546A - Soldier and Bananas.deps.json
+E:\Codes\Codeforces\Codeforces\546A - Soldier and Bananas\bin\Debug\net7.0\546A - Soldier and Bananas.runtimeconfig.json
+E:\Codes\Codeforces\Codeforces\546A - Soldier and Bananas\bin\Debug\net7.0\546A - Soldier and Bananas.dll
+E:\Codes\Codeforces\Codeforces\546A - Soldier and Bananas\bin\Debug\net7.0\546A - Soldier and Bananas.pdb
+E:\Codes\Codeforces\Codeforces\546A - Soldier and Bananas\obj\Debug\net7.0\546A - Soldier and Bananas.dll
+E:\Codes\Codeforces\Codeforces\546A - Soldier and Bananas\obj\Debug\net7.0\refint\546A - Soldier and Bananas.dll
+E:\Codes\Codeforces\Codeforces\546A - Soldier and Bananas\obj\Debug\net7.0\546A - Soldier and Bananas.pdb
+E:\Codes\Codeforces\Codeforces\546A - Soldier and Bananas\obj\Debug\net7.0\546A - Soldier and Bananas.genruntimeconfig.cache
+E:\Codes\Codeforces\Codeforces\546A - Soldier and Bananas\obj\Debug\net7.0\ref\546A - Soldier and Bananas.dll
