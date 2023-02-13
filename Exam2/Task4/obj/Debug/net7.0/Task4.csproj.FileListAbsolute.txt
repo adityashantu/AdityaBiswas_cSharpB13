@@ -1,0 +1,15 @@
+E:\Courses\C# - Dev Skill\C#_Aditya Biswas_Own Work\AdityaBiswas_cSharpB13\Exam2\Task4\bin\Debug\net7.0\Task4.exe
+E:\Courses\C# - Dev Skill\C#_Aditya Biswas_Own Work\AdityaBiswas_cSharpB13\Exam2\Task4\bin\Debug\net7.0\Task4.deps.json
+E:\Courses\C# - Dev Skill\C#_Aditya Biswas_Own Work\AdityaBiswas_cSharpB13\Exam2\Task4\bin\Debug\net7.0\Task4.runtimeconfig.json
+E:\Courses\C# - Dev Skill\C#_Aditya Biswas_Own Work\AdityaBiswas_cSharpB13\Exam2\Task4\bin\Debug\net7.0\Task4.dll
+E:\Courses\C# - Dev Skill\C#_Aditya Biswas_Own Work\AdityaBiswas_cSharpB13\Exam2\Task4\bin\Debug\net7.0\Task4.pdb
+E:\Courses\C# - Dev Skill\C#_Aditya Biswas_Own Work\AdityaBiswas_cSharpB13\Exam2\Task4\obj\Debug\net7.0\Task4.csproj.AssemblyReference.cache
+E:\Courses\C# - Dev Skill\C#_Aditya Biswas_Own Work\AdityaBiswas_cSharpB13\Exam2\Task4\obj\Debug\net7.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\C# - Dev Skill\C#_Aditya Biswas_Own Work\AdityaBiswas_cSharpB13\Exam2\Task4\obj\Debug\net7.0\Task4.AssemblyInfoInputs.cache
+E:\Courses\C# - Dev Skill\C#_Aditya Biswas_Own Work\AdityaBiswas_cSharpB13\Exam2\Task4\obj\Debug\net7.0\Task4.AssemblyInfo.cs
+E:\Courses\C# - Dev Skill\C#_Aditya Biswas_Own Work\AdityaBiswas_cSharpB13\Exam2\Task4\obj\Debug\net7.0\Task4.csproj.CoreCompileInputs.cache
+E:\Courses\C# - Dev Skill\C#_Aditya Biswas_Own Work\AdityaBiswas_cSharpB13\Exam2\Task4\obj\Debug\net7.0\Task4.dll
+E:\Courses\C# - Dev Skill\C#_Aditya Biswas_Own Work\AdityaBiswas_cSharpB13\Exam2\Task4\obj\Debug\net7.0\refint\Task4.dll
+E:\Courses\C# - Dev Skill\C#_Aditya Biswas_Own Work\AdityaBiswas_cSharpB13\Exam2\Task4\obj\Debug\net7.0\Task4.pdb
+E:\Courses\C# - Dev Skill\C#_Aditya Biswas_Own Work\AdityaBiswas_cSharpB13\Exam2\Task4\obj\Debug\net7.0\Task4.genruntimeconfig.cache
+E:\Courses\C# - Dev Skill\C#_Aditya Biswas_Own Work\AdityaBiswas_cSharpB13\Exam2\Task4\obj\Debug\net7.0\ref\Task4.dll
