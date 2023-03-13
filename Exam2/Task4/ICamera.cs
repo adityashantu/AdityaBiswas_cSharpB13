@@ -8,6 +8,6 @@ namespace Task4
 {
     public interface ICamera
     {
-        void TakePhoto(int width, int height);
+        public void TakePhoto(int width, int height);
     }
 }

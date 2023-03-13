@@ -11,7 +11,9 @@ namespace Task4
         public string Model { get; set; }
         public string Color { get; set; }
 
-        public Cannon() { }
+        public Cannon() 
+        { 
+        }
 
         public Cannon(string model)
         {
