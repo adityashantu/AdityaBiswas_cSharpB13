@@ -1,2 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+DateTime day = DateTime.Now;
+
+Console.WriteLine("100 days from today");
+Console.WriteLine(day.AddDays(100).DayOfWeek);
+Console.WriteLine(day.AddDays(100).ToString("MMMM"));
