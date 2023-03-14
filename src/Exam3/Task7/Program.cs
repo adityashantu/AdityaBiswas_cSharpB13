@@ -13,5 +13,5 @@ human.Add(new { Name = "Tahu", Age = 21 });
 
 foreach (var person in human)
 {
-    Console.WriteLine("Name: {0}, Age: {1}", person.GetType().GetProperty("Name").GetValue(person, null), person.GetType().GetProperty("Age").GetValue(person, null));
+    Console.WriteLine("Name: {0}, Age: {1}", person.Name, person.Age;
 }
